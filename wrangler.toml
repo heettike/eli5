@@ -1,0 +1,7 @@
+name = "eli5-worker"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+kv_namespaces = [
+  { binding = "EMAIL_LIST", id = "d0142e5647c4432999c505ec7d2712ee"}
+]
